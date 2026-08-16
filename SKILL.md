@@ -3,7 +3,7 @@ license: MIT
 name: aircraft-whole-transaction-review
 description: 审查飞机整机交易、租赁、适航、取回及财务回报。
 version: 0.3.0
-author: Hermes Agent Contributor
+author: stormchaser
 platforms: [linux, macos, windows]
 metadata:
   hermes:
